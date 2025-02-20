@@ -1,0 +1,76 @@
+Here is the extracted information from Dan Clark's resume in a dictionary format:
+
+{
+"Name": "Dan Clark",
+"Skills": ["Java", "T-SQL", "C#.Net", "Embedded Software", "Linux", "Python", "Ruby"],
+"Experience": [
+{
+"Company": "Equinox",
+"Job Title": "Senior Software Engineer",
+"Duration": "Dec 2013 - Mar 2019",
+"Achievements": ["Received Sales Solutions Instigator Award for three years in a row for writing codes to automate sales presentation applications."]
+},
+{
+"Company": "Budweiser",
+"Job Title": "Project Software Engineer",
+"Duration": "Mar 2012 - Oct 2013",
+"Achievements": ["Solve technical issues within 30 minutes on average by creating continuous bug fixes daily for the newly implemented ERM Software for the first 30 days after implementation."]
+},
+{
+"Company": "Coca Cola",
+"Job Title": "Junior Level Software Engineer",
+"Duration": "Jul 2011 - Dec 2011",
+"Achievements": ["Assisting Senior Software Engineer with designing algorithms for error analysis purposes on the Intel i32 servers reducing systems downtime by 28% after running those algorithms."]
+}
+],
+"Education": [
+{
+"Institution": "Kaplan University",
+"Major": "IT Infrastructure, Game Apps Design",
+"Duration": "Mar 2014 - Dec 2015"
+},
+{
+"Institution": "Carnegie Mellon University",
+"Major": "Bachelor of Science in Electrical and Computer Engineering",
+"Duration": "Jul 2011 - Dec 2013"
+},
+{
+"Institution": "Milwaukee School of Engineering",
+"Major": "Associates Degree in Software Engineering",
+"Duration": "Jul 2008 - Mar 2010"
+}
+],
+"Certifications": [
+{
+"Name": "Certified Network Professional (CNP)"
+},
+{
+"Name": "Certificate in Multi-platform Software Development"
+}
+]
+}
+
+Note: The "Skills" section includes all the skills mentioned in the resume, grouped under the appropriate category 
+(e.g., programming languages, operating systems, etc.). The "Experience" section includes all the job titles and companies listed in the resume, 
+along with their durations and any relevant achievements or accomplishments. The "Education" section includes all the educational institutions 
+and majors listed in the resume, along with their durations. Finally, the "Certifications" section includes all the certifications mentioned in the resume.
+
+
+
+Based on the provided resume, here are some of the skills and technologies that Dan Clark has expertise in:
+
+1. Programming languages: C#, Java, Visual Basic, ASP, XML, XSL, JWS, SQL, and T-SQL.
+2. Databases: MySQL, Oracle, Access, SAP.
+3. Software: Microsoft Office, Remedy, Microsoft SQL Server, DB Artisan, Eclipse, Visual Studio.NET, FrontPage.
+4. Operating systems: Linux, Windows.
+5. Web development frameworks: HTML, Ruby on Rails.
+6. Agile methodologies.
+7. Project management tools: Jira, Asana.
+8. Testing and debugging tools: Selenium, Postman.
+9. Networking protocols: TCP/IP, HTTP, FTP, SSH.
+10. Certifications: CNP (Certified Network Professional), ICCP (Institute for Certification of Computer Professionals) - Multi-platform Software Development.
+
+In addition to these technical skills, Dan also has experience in software development life cycle, requirements gathering and analysis, user documentation, and training manuals. He has also worked on systems architecture design, front-end and back-end development, and integration with other systems.
+
+
+
