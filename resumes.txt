@@ -44,3 +44,25 @@ Certificates:
 
 
 
+1. Skills:
+	* Programming languages: Python, C#, Java, Visual Basic, ASP, XML, XSL, JWS, SQL, and T-SQL
+	* Development tools: Microsoft Office, Remedy, Microsoft SQL Server, DB Artisan, Eclipse, Visual Studio.NET, FrontPage
+	* Databases: MySQL, Oracle, Access, SAP
+	* Operating systems: Linux, Ruby
+	* Embedded software
+	* Systems architecture design
+	* Protocol testing
+2. Educational qualifications:
+	* Master's degree in Computer Science from Kaplan University (Mar 2014 – Dec 2015)
+	* Bachelor of Science in Electrical and Computer Engineering from Carnegie Mellon University (Jul 2011 – Dec 2013)
+	* Associate's degree in Software Engineering from Milwaukee School of Engineering (Jul 2008 – Mar 2010)
+3. Work experience:
+	* Senior Software Engineer at Equinox (Dec 2013 – Mar 2019)
+	* Project Software Engineer at Budweiser (Mar 2012 – Oct 2013)
+	* Junior Level Software Engineer at Coca Cola (Jul 2011 – Dec 2011)
+4. Certificates:
+	* Certified Network Professional (CNP) from Florida Institute of Technology (Feb 2010 – Dec 2011)
+	* Certificate in Multi-platform Software Development from Institute for Certification of Computer Professionals (ICCP) (Mar 2019 – Present)
+
+
+
