@@ -1,0 +1,36 @@
+import speech_recognition as sr
+
+speech = sr.Recognizer()
+text1=""
+def record():
+    while True:
+        try:
+            with sr.Microphone() as source2:
+
+                speech.adjust_for_ambient_noise(source2, duration=0.2)
+
+                audio2 = speech.listen(source2)
+
+
+                MyText = speech.recognize_google(audio2)
+                MyText = MyText.lower()
+
+                return MyText
+
+        except sr.RequestError as e:
+            print("Could not request results; {0}".format(e))
+
+        except sr.UnknownValueError:
+            print("Error: Could not understand audio")
+
+def output(text):
+
+    with open("output.txt", "a") as f:
+        f.write(text + "\n")
+
+
+while True:
+    text = record()
+    if text !=None:
+      text1=text1+text
+      output(text)
