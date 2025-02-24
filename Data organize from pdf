@@ -1,0 +1,21 @@
+import google.generativeai as genai
+import PyPDF2
+
+genai.configure(api_key="AIzaSyCfldJsMI1TKS0iCKc92NNtUA1N2z93q7w")
+
+
+def extract_text_from_pdf(pdf_path):
+    text1 = ""
+    with open(pdf_path, "rb") as file:
+        pdf_reader = PyPDF2.PdfReader(file)
+        for page in pdf_reader.pages:
+            text1 += page.extract_text() + "\n"
+    return text1
+
+pdf_path = "resume1.pdf" 
+pdf_text = extract_text_from_pdf(pdf_path)
+
+model = genai.GenerativeModel("gemini-pro")
+response = model.generate_content(f"write it in an organized way: {text1}")
+
+print("Corrected Text:", response.text)

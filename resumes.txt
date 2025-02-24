@@ -1,68 +1,76 @@
-Based on the provided resume, here is the information extracted:
+Here is the extracted information from Dan Clark's resume in a dictionary format:
 
-Skills:
+{
+"Name": "Dan Clark",
+"Skills": ["Java", "T-SQL", "C#.Net", "Embedded Software", "Linux", "Python", "Ruby"],
+"Experience": [
+{
+"Company": "Equinox",
+"Job Title": "Senior Software Engineer",
+"Duration": "Dec 2013 - Mar 2019",
+"Achievements": ["Received Sales Solutions Instigator Award for three years in a row for writing codes to automate sales presentation applications."]
+},
+{
+"Company": "Budweiser",
+"Job Title": "Project Software Engineer",
+"Duration": "Mar 2012 - Oct 2013",
+"Achievements": ["Solve technical issues within 30 minutes on average by creating continuous bug fixes daily for the newly implemented ERM Software for the first 30 days after implementation."]
+},
+{
+"Company": "Coca Cola",
+"Job Title": "Junior Level Software Engineer",
+"Duration": "Jul 2011 - Dec 2011",
+"Achievements": ["Assisting Senior Software Engineer with designing algorithms for error analysis purposes on the Intel i32 servers reducing systems downtime by 28% after running those algorithms."]
+}
+],
+"Education": [
+{
+"Institution": "Kaplan University",
+"Major": "IT Infrastructure, Game Apps Design",
+"Duration": "Mar 2014 - Dec 2015"
+},
+{
+"Institution": "Carnegie Mellon University",
+"Major": "Bachelor of Science in Electrical and Computer Engineering",
+"Duration": "Jul 2011 - Dec 2013"
+},
+{
+"Institution": "Milwaukee School of Engineering",
+"Major": "Associates Degree in Software Engineering",
+"Duration": "Jul 2008 - Mar 2010"
+}
+],
+"Certifications": [
+{
+"Name": "Certified Network Professional (CNP)"
+},
+{
+"Name": "Certificate in Multi-platform Software Development"
+}
+]
+}
 
-* R
-* C#.Net
-* JavaScript
-* Linux
-* Embedded Software
-* Smalltalk
-* Protocol Testing
-* Training Manuals
-* Python
-* HTML
-* Oracle
-* Ruby
-* Systems Architecture Design
-* Visual Studio
-* User Documentation
-
-Educational Qualifications:
-
-* Masters Degree in Computer Science, Kaplan University (Mar 2014 – Dec 2015)
-* Bachelor of Science in Electrical and Computer Engineering, Carnegie Mellon University (Jul 2011 – Dec 2013)
-* Associates Degree in Software Engineering, Milwaukee School of Engineering (Jul 2008 – Mar 2010)
-
-Experience:
-
-* Senior Software Engineer, Equinox (Dec 2013 – Mar 2019)
-	+ Translated user needs into easy-to-understand software solutions via client workshops and webinars, resulting in closing deals for the sales team of more than $500k in value.
-	+ Received Sales Solutions Instigator Award for three years in a row for writing codes to automate sales presentation applications.
-* Project Software Engineer, Budweiser (Mar 2012 – Oct 2013)
-	+ Solved technical issues within 30 minutes on average by creating continuous bug fixes daily for the newly implemented ERM software for the first 30 days after implementation.
-	+ Developed a project development plan together with the business analyst.
-* Junior Level Software Engineer, Coca Cola (Jul 2011 – Dec 2011)
-	+ Assisted Senior Software Engineer with designing algorithms for error analysis purposes on Intel i32 servers, reducing systems downtime by 28% after running those algorithms.
-	+ Participated in the full development life cycle of products including requirement analysis, architectural design and component software features through to implementation of test plans and documenting final product solution.
-* Associates Degree in Software Engineering, Milwaukee School of Engineering (Jul 2008 – Mar 2010)
-
-Certificates:
-
-* Certified Network Professional (CNP), Florida Institute of Technology (Feb 2010 – Dec 2011)
-* Multi-platform Software Development, Institute for Certification of Computer Professionals (Mar 2019 – Present)
+Note: The "Skills" section includes all the skills mentioned in the resume, grouped under the appropriate category 
+(e.g., programming languages, operating systems, etc.). The "Experience" section includes all the job titles and companies listed in the resume, 
+along with their durations and any relevant achievements or accomplishments. The "Education" section includes all the educational institutions 
+and majors listed in the resume, along with their durations. Finally, the "Certifications" section includes all the certifications mentioned in the resume.
 
 
 
-1. Skills:
-	* Programming languages: Python, C#, Java, Visual Basic, ASP, XML, XSL, JWS, SQL, and T-SQL
-	* Development tools: Microsoft Office, Remedy, Microsoft SQL Server, DB Artisan, Eclipse, Visual Studio.NET, FrontPage
-	* Databases: MySQL, Oracle, Access, SAP
-	* Operating systems: Linux, Ruby
-	* Embedded software
-	* Systems architecture design
-	* Protocol testing
-2. Educational qualifications:
-	* Master's degree in Computer Science from Kaplan University (Mar 2014 – Dec 2015)
-	* Bachelor of Science in Electrical and Computer Engineering from Carnegie Mellon University (Jul 2011 – Dec 2013)
-	* Associate's degree in Software Engineering from Milwaukee School of Engineering (Jul 2008 – Mar 2010)
-3. Work experience:
-	* Senior Software Engineer at Equinox (Dec 2013 – Mar 2019)
-	* Project Software Engineer at Budweiser (Mar 2012 – Oct 2013)
-	* Junior Level Software Engineer at Coca Cola (Jul 2011 – Dec 2011)
-4. Certificates:
-	* Certified Network Professional (CNP) from Florida Institute of Technology (Feb 2010 – Dec 2011)
-	* Certificate in Multi-platform Software Development from Institute for Certification of Computer Professionals (ICCP) (Mar 2019 – Present)
+Based on the provided resume, here are some of the skills and technologies that Dan Clark has expertise in:
+
+1. Programming languages: C#, Java, Visual Basic, ASP, XML, XSL, JWS, SQL, and T-SQL.
+2. Databases: MySQL, Oracle, Access, SAP.
+3. Software: Microsoft Office, Remedy, Microsoft SQL Server, DB Artisan, Eclipse, Visual Studio.NET, FrontPage.
+4. Operating systems: Linux, Windows.
+5. Web development frameworks: HTML, Ruby on Rails.
+6. Agile methodologies.
+7. Project management tools: Jira, Asana.
+8. Testing and debugging tools: Selenium, Postman.
+9. Networking protocols: TCP/IP, HTTP, FTP, SSH.
+10. Certifications: CNP (Certified Network Professional), ICCP (Institute for Certification of Computer Professionals) - Multi-platform Software Development.
+
+In addition to these technical skills, Dan also has experience in software development life cycle, requirements gathering and analysis, user documentation, and training manuals. He has also worked on systems architecture design, front-end and back-end development, and integration with other systems.
 
 
 

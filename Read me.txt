@@ -1,0 +1,30 @@
+to run scanning in vs code
+
+ai
+1. search download ollama
+
+2. download from their website and install
+
+3. open windows PowerShell or cmd (for me it was automatically opened after installing ollama)
+                                   
+4. (optional)(to check if it is installed) type the line below and hit enter
+    ollama --version
+              
+5. type the line below and hit enter - it will download llama2 which we will use 
+    ollama pull llama2
+              
+6. (optional)(to check if it is working properly) type the line below and hit enter
+    ollama run llama2 "Hello, world!"
+
+7. open vs code, go to terminal and type the line below and hit enter
+    pip install ollama
+
+
+
+
+
+
+
+for scraping:
+  1. cmd 
+         pip install beautifulsoup4     
